@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/simple-todo-list"
+  publicPath: "/simple-todo-list/dist"
 };
